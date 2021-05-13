@@ -163,3 +163,8 @@ section.content img
     opacity: 0.5;
     mix-blend-mode: overlay;
 }
+.img{
+	margin-left:450px;
+	width:700px;
+	height:400px
+}
